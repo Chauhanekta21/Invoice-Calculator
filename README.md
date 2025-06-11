@@ -19,5 +19,6 @@ Great for beginners! Demonstrates:
 - Real-world billing logic
 
 ## 🖥 How to Run
-```bash
-python billing_system.py
+- Click on the below link to run the project
+- Link: https://replit.com/@chauhanekta31/Invoice-Calculator#main.py
+  

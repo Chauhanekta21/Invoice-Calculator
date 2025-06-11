@@ -18,7 +18,6 @@ Great for beginners! Demonstrates:
 - Arithmetic operations
 - Real-world billing logic
 
-## 🖥 How to Run
-- Click on the below link to run the project
-- Link: https://replit.com/@chauhanekta31/Invoice-Calculator#main.py
-  
+## 🔗 Live Demo
+Run the project instantly on Replit: Click Here - (https://replit.com/@chauhanekta31/Invoice-Calculator#main.py)
+
